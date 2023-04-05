@@ -1,2 +1,2 @@
-# std-english-tutor-gpt
-Creation of API for correcting sentences in English.
+# Poc-Chatbot-Gpt
+API created to test chatgpt api functions integrated into a chatbot.
