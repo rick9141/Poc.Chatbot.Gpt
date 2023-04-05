@@ -15,8 +15,4 @@
     <ProjectReference Include="..\Poc.Chatbot.Gpt.Models\Poc.Chatbot.Gpt.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Integrations\" />
-  </ItemGroup>
-
 </Project>
